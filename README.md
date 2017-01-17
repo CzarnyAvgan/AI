@@ -1,0 +1,2 @@
+# AI
+sztuczna inteligencja
